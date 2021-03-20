@@ -1,1 +1,1 @@
-[![Brhaka GitHub Stats](https://github-readme-stats.vercel.app/api?username=brhaka&count_private=true&show_icons=true&hide_border=true&theme=merko)](https://github.com/brhaka?tab=repositories)
+[![Brhaka GitHub Stats](https://github-readme-stats.vercel.app/api?username=brhaka&include_all_commits=true&count_private=true&show_icons=true&hide_border=tru&hide_rank=true&theme=merko)](https://github.com/brhaka?tab=repositories)
