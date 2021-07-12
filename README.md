@@ -10,7 +10,6 @@
 
 ---
 
-<p align="center">Stack Overflow:</p>
-<p align="center"><a href="https://stackoverflow.com/users/11578778/brhaka"><img src="https://stackexchange.com/users/flair/16030531.png" width="208" height="58" alt="Brhaka's StackOverflow" /></a></p>
+<p align="center">Stack Overflow:<br /><br /><a href="https://stackoverflow.com/users/11578778/brhaka"><img src="https://stackexchange.com/users/flair/16030531.png" width="208" height="58" alt="Brhaka's StackOverflow" /></a></p>
 
 </div>
