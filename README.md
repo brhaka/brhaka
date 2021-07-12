@@ -1,7 +1,8 @@
 <div height="300">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brhaka&custom_title=Languages%20(Public%20Repos)&include_all_commits=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515" alt="Most Used Languages on Public Repos" width="280" height="300" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brhaka&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide_rank=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515" alt="Brhaka's GitHub Stats" width="300" height="300" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brhaka&custom_title=Languages%20(Public%20Repos)&include_all_commits=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=bfbfbf&bg_color=151515" alt="Most Used Languages on Public Repos" width="280" height="300" />
 
 <br />
 
