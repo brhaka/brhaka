@@ -12,7 +12,7 @@ jobs:
         steps:
             # Animation
             - uses: Platane/snk@master
-            id: snake-gif
-            with:
-                github_user_name: brhaka
-                svg_out_path: dist/github-contribution-grid-snake.svg
+                id: snake-gif
+                with:
+                    github_user_name: brhaka
+                    svg_out_path: dist/github-snake.svg
