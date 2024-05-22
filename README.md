@@ -14,5 +14,3 @@
 <p align="center">Stack Overflow:<br /><br /><a href="https://stackoverflow.com/users/11578778/brhaka"><img src="https://stackexchange.com/users/flair/16030531.png" width="160" height="44" alt="Brhaka's StackOverflow" /></a></p>
 
 </div>
-
-<p align="center"><img alt="Contribution Snake Animation" href="https://github.com/brhaka?tab=repositories" src="https://github.com/brhaka/brhaka/blob/output/github-contrib-snake.svg" /></p>
